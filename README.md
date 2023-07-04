@@ -34,7 +34,7 @@ This Web App uses the following features:
 ## Downloading and customizing
 
 Apart from the files that I have uploaded in the repository, you will also need to install:
-1. node.js which you can download [here]('https://nodejs.org/en' "Node JS Download")
+1. node.js which you can download [here](https://nodejs.org/en "Node JS Download")
 2. Once you have node.js on your system, open the command line and navigate to where you have saved the Dynamic To Do List files. Then enter the following commands to install: *express.js* and *body parser*
    ```
    npm init
